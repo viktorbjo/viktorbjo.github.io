@@ -1,0 +1,38 @@
+body {
+    
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+}
+
+header {
+    
+    color: #000000;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+hr { 
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: 1em;
+    margin-right: 1em;
+    border-style: inset;
+    border-width: 1px;
+  } 
+
+footer {
+    position: relative; 
+    padding: 10px;
+    text-align: center;
+}
